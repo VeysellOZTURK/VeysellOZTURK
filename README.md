@@ -7,7 +7,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=VeysellOZTURK&data=followers,repositories,stars,commits)]()
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Electwix&count_private=true&theme=radical&show_icons=true&hide=stars"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeysellOZTURK&count_private=true&theme=radical&show_icons=true&hide=stars"/>
 
 
 
@@ -22,13 +22,13 @@
   
 ## Skills
 
-[![](https://github-widgetbox.vercel.app/api/skills?names=js,csharp,python,html,css,PostgreSQL,json,php,java&includeNames=true)](https://electwix.dev/)
+[![](https://github-widgetbox.vercel.app/api/skills?names=js,csharp,python,html,css,PostgreSQL,json,php,java&includeNames=true)]
   
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,nodejs&includeNames=true)](https://electwix.dev/)
+ [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,nodejs&includeNames=true)]
+ 
+ [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=bootstrap,tailwind,react,electron,dotnet&includeNames=true)]
   
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=bootstrap,tailwind,react,electron,dotnet&includeNames=true)](electwix.dev)
-  
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode,windows&includeNames=true)](https://electwix.dev)
+ [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode,windows&includeNames=true)]
   
 
 </div>
