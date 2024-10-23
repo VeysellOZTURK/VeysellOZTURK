@@ -21,7 +21,7 @@
   
 ## Skills
 
-![](https://github-widgetbox.vercel.app/api/skills?names=js,csharp,python,html,css,PostgreSQL,json,php,java&includeNames=true)
+![](https://github-widgetbox.vercel.app/api/skills?names=js,ts,python,mongodb,json,csharp,java&includeNames=true)
   
  ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,nodejs&includeNames=true)
  
